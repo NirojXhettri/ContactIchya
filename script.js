@@ -4,7 +4,7 @@
   /* customize formbutton below*/     
   formbutton("create", {
     action: "https://formspree.io",
-    title: "How can Ichya help you?",
+    title: "How can Ichhya help you?",
     fields: [
       { 
         type: "number", 
